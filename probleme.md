@@ -16,6 +16,5 @@ l12 : url complete visible
 
 main :
 secret & main : visible
-l18 : yield vide
 l7 : import typing
 l25 : virgule apres lifespan
