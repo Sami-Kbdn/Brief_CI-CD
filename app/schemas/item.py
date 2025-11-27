@@ -7,7 +7,8 @@ class ItemBase(SQLModel):
 
 
 class ItemCreate(ItemBase):
-    pass
+    nom: str
+    prix: float
 
 
 class ItemUpdate(SQLModel):
